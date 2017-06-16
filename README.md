@@ -9,3 +9,6 @@ This helps to ON or OFF a LED via a mobile phone or browser.
 
 [Blink](blink.php)
 This file has the source code for blinking the LED interfaced with Raspberry Pi using Mobile Phone or a brwoser.
+
+[Manual](IoT_Manual.pdf)
+This is the handout that were given to our participants
